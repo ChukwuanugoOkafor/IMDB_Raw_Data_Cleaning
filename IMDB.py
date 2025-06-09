@@ -10,7 +10,7 @@ pd.set_option('display.width', None)  # Allow wide DataFrame to be displayed ful
 # Set the file path for loading the dataset
 file_path = "C:\\Users\\ABC\\Desktop\\Real data\\Imdb_top_1000.csv"
 
-# Load the CSV file into a pandas DataFrame
+# Load the CSV file into a pandas DataFrame..
 df_IMDB_raw_file = pd.read_csv(file_path)
 file_Name = "Imdb_top_1000.csv"
 
